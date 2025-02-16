@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jasmeen Kaur</h1>
+<h1 align="center">Jasmeen Kaur</h1>
 <h3 align="center">Passionate and driven Master’s student in Electrical and Computer Engineering with Software Specialization and a strong background in front-end development, machine learning, and software engineering.</h3>
 
 -  I’m currently working on **Working on asset management for the company Urban System as my capstone project.**
