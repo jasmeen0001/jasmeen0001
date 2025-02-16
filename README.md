@@ -1,5 +1,5 @@
 <h1 align="center">Jasmeen Kaur</h1>
-<h3 align="center" style="font-size: 12px;">Passionate and driven Master’s student in Electrical and Computer Engineering with Software Specialization and a strong background in front-end development, machine learning, and software engineering.</h3>
+<h3 align="center" style="font-size: 8px;">Passionate and driven Master’s student in Electrical and Computer Engineering with Software Specialization and a strong background in front-end development, machine learning, and software engineering.</h3>
 
 -  I’m currently working on **Working on asset management for the company Urban System as my capstone project.**
 -  I’m currently learning **Advanced algorithms, cloud technologies, and machine learning.**
